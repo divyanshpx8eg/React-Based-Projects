@@ -11,9 +11,10 @@ This project demonstrates modular component structure with a navigation bar, her
 src/
  ├─ components/
  │   ├─ NavBar.jsx           # Navigation bar with logo & menu options
- │   └─ ContentComponent.jsx # Hero section with text, buttons, and product image
- └─ pages/
-     └─ BrandPage.jsx        # Page layout combining NavBar and ContentComponent
+ │   |─ ContentComponent.jsx # Hero section with text, buttons, and product image
+ |   └─ BrandPage.jsx        # Page layout combining NavBar and ContentComponent
+ └─ app.jsx
+     
 ```
 
 ---
