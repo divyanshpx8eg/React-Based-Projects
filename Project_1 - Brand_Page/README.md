@@ -38,3 +38,5 @@ src/
 ## 🖼️ Preview
 
 Here’s how the Brand Page looks:
+<img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/d9ae6ece-7f7c-401d-b60e-f5a88fce362c" />
+
